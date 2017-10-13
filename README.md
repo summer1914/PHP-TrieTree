@@ -1,7 +1,7 @@
 # PHP-TrieTree
 ## 这是一个支持中英文混合的PHP的字典树
 
-> 注1：本字典树是在https://github.com/AbelZhou/PHP-TrieTree的基础上做了进一步的修改，本想将个人的优化更新push到该仓库，但作者由于客观原因不方便merge我的更改，故重新开了仓库。
+> 注1：本字典树是在 https://github.com/AbelZhou/PHP-TrieTree 的基础上做了进一步的修改，本想将个人的优化更新push到该仓库，但作者由于客观原因不方便merge我的更改，故重新开了仓库。
 
 > 注2：测试的词库引用了Abel的，谢谢Abel
 
